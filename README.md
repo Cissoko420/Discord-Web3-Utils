@@ -6,5 +6,6 @@
   <br>
         ![Selection](images/image1.png)
 <br>
-- get_discord_reactions_&_create_channel.py:
+
+- get_discord_reactions_&_create_channel.py :
 <br>    
